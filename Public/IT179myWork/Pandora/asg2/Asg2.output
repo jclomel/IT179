@@ -1,0 +1,63 @@
+New deck generated and shuffled.
+Number of Cards in Deck: 52
+Number of suits in Deck: 4
+
+Order of shuffled deck:
+C8  H5  C10 C5  C4  C7  H9  C13 D13 D3  D6  S2  H11 
+D12 S12 S1  D7  C1  S4  H12 H2  H6  H1  H7  S13 S3  
+S5  H4  D2  D11 C12 D4  S11 S9  H10 C9  C2  H13 C11 
+H3  C6  D1  D10 S7  D8  S10 C3  H8  S8  D9  D5  S6  
+
+
+Playing: "Find the Aces"
+
+Suit: Clubs
+C8  C10 C5  C4  C7  C13 C1  C12 C9  C2  C11 C6  C3  
+C12 C1  C13 C7  C4  C5  C10 C8  C9  C2  C11 C6  C3  
+C6  C11 C2  C9  C8  C10 C5  C4  C7  C13 C1  C12 C3  
+C10 C8  C9  C2  C11 C6  C5  C4  C7  C13 C1  C12 C3  
+C13 C7  C4  C5  C6  C11 C2  C9  C8  C10 C1  C12 C3  
+C3  C12 C1  C10 C8  C9  C2  C11 C6  C5  C4  C7  C13 
+C1  C12 C3  C10 C8  C9  C2  C11 C6  C5  C4  C7  C13 
+Clubs reversed 6 times.
+
+Suit: Diamonds
+D13 D3  D6  D12 D7  D2  D11 D4  D1  D10 D8  D9  D5  
+D5  D9  D8  D10 D1  D4  D11 D2  D7  D12 D6  D3  D13 
+D1  D10 D8  D9  D5  D4  D11 D2  D7  D12 D6  D3  D13 
+Diamonds reversed 2 times.
+
+Suit: Hearts
+H5  H9  H11 H12 H2  H6  H1  H7  H4  H10 H13 H3  H8  
+H2  H12 H11 H9  H5  H6  H1  H7  H4  H10 H13 H3  H8  
+H12 H2  H11 H9  H5  H6  H1  H7  H4  H10 H13 H3  H8  
+H3  H13 H10 H4  H7  H1  H6  H5  H9  H11 H2  H12 H8  
+H10 H13 H3  H4  H7  H1  H6  H5  H9  H11 H2  H12 H8  
+H11 H9  H5  H6  H1  H7  H4  H3  H13 H10 H2  H12 H8  
+H2  H10 H13 H3  H4  H7  H1  H6  H5  H9  H11 H12 H8  
+H10 H2  H13 H3  H4  H7  H1  H6  H5  H9  H11 H12 H8  
+H9  H5  H6  H1  H7  H4  H3  H13 H2  H10 H11 H12 H8  
+H2  H13 H3  H4  H7  H1  H6  H5  H9  H10 H11 H12 H8  
+H13 H2  H3  H4  H7  H1  H6  H5  H9  H10 H11 H12 H8  
+H8  H12 H11 H10 H9  H5  H6  H1  H7  H4  H3  H2  H13 
+H1  H6  H5  H9  H10 H11 H12 H8  H7  H4  H3  H2  H13 
+Hearts reversed 12 times.
+
+Suit: Spades
+S2  S12 S1  S4  S13 S3  S5  S11 S9  S7  S10 S8  S6  
+S12 S2  S1  S4  S13 S3  S5  S11 S9  S7  S10 S8  S6  
+S8  S10 S7  S9  S11 S5  S3  S13 S4  S1  S2  S12 S6  
+S13 S3  S5  S11 S9  S7  S10 S8  S4  S1  S2  S12 S6  
+S6  S12 S2  S1  S4  S8  S10 S7  S9  S11 S5  S3  S13 
+S8  S4  S1  S2  S12 S6  S10 S7  S9  S11 S5  S3  S13 
+S7  S10 S6  S12 S2  S1  S4  S8  S9  S11 S5  S3  S13 
+S4  S1  S2  S12 S6  S10 S7  S8  S9  S11 S5  S3  S13 
+S12 S2  S1  S4  S6  S10 S7  S8  S9  S11 S5  S3  S13 
+S3  S5  S11 S9  S8  S7  S10 S6  S4  S1  S2  S12 S13 
+S11 S5  S3  S9  S8  S7  S10 S6  S4  S1  S2  S12 S13 
+S2  S1  S4  S6  S10 S7  S8  S9  S3  S5  S11 S12 S13 
+S1  S2  S4  S6  S10 S7  S8  S9  S3  S5  S11 S12 S13 
+Spades reversed 12 times.
+
+Total reversals for entire deck: 32
+

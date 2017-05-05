@@ -1,0 +1,20 @@
+Tmux Ctrl-B keys
+
+Sessions
+	s - list sessions	$ - rename session
+	d - detach from current session
+
+Windows
+	c - create new		, - rename current
+	w - list windows	% - split horiz
+	" - split vert		n - next window
+	p - prev window		0 to 9 - select #
+
+Panes
+	% - create horiz	" - create vert
+	q - show pane numbers	o - toggle
+	} - next pane		{ - prev pane
+	! - break pane out of window
+	x - kill current
+Misc
+	t - show time in current pane

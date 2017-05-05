@@ -1,0 +1,7 @@
+
+
+TimeSimulated = 3:00:00    Mean of Gate Time = 3.0 seconds    Variance Gate Time = 6.0 seconds    Toll Gate Lanes = 2
+
+----------FLOW: 1 VEHICLE EVERY 2.000 SECONDS
+ VEHICLE/SEC      TOTAL   EASYPASS   AVERAGE-WAITING    AVERAGE-GATE    AVERAGE-TIME    MAX ROAD
+     1/2.000       5372       2648           0:08:26           7.745         0:08:34        430

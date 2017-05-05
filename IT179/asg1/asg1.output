@@ -1,0 +1,18 @@
+Circle: radius = 10.0
+      Perimeter: 62.8319
+   Surface Area:314.1593
+
+Rectangle: length = 10.0, height = 20.0
+      Perimeter: 60.0000
+   Surface Area:200.0000
+
+Cylinder: radius = 10.0, depth = 20.0
+      Perimeter: 62.8319
+   Surface Area:314.1593
+        Volumn::6283.1853
+
+RectanglePrism: length = 10.0, height = 20.0, depth = 30.0
+      Perimeter:240.0000
+   Surface Area:2200.0000
+        Volumn::6000.0000
+

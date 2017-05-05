@@ -1,0 +1,14 @@
+Vim Shortcuts
+
+Insert Mode
+	h - move left
+	j - move down
+	k - move up
+	l - move right
+	esc - leave insert mode
+
+Edit mode
+	:wq! - force save and quit
+	:q! - force quit with no save
+	i - enter Insert mode
+

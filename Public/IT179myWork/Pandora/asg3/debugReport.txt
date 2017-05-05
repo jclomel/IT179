@@ -1,0 +1,21 @@
+
+
+** Debugging:
+[10, 20, 30]
+
+Add  0 at -1 to [10, 20, 30]                  : IndexOutOfBoundsException
+Add  0 at  4 to [10, 20, 30]                  : IndexOutOfBoundsException
+Add 99 at  0 to [10, 20, 30]                  : IndexOutOfBoundsException
+Add  5 at  0 to [10, 20, 30]                  : added
+Add  5 at  0 to [5, 10, 20, 30]               : IndexOutOfBoundsException
+Add  0 at  4 to [5, 10, 20, 30]               : IllegalArgumentException
+Add 20 at  4 to [5, 10, 20, 30]               : IllegalArgumentException
+Add  5 at  6 to [5, 10, 20, 30]               : IndexOutOfBoundsException
+Add 90 at  6 to [5, 10, 20, 30]               : IndexOutOfBoundsException
+Add 55 at  2 to [5, 10, 20, 30]               : IllegalArgumentException
+Add  0 at  2 to [5, 10, 20, 30]               : IllegalArgumentException
+Add  5 at  2 to [5, 10, 20, 30]               : IllegalArgumentException
+Add  7 at  2 to [5, 10, 20, 30]               : IllegalArgumentException
+
+size:4 Index out bounds:6  Out of order:6
+[5, 10, 20, 30]
